@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/try1/build/static/css/main.e3061f22.css",
+    "main.js": "/try1/build/static/js/main.ee489361.js",
+    "static/media/GCE_Badges_02.png": "/try1/build/static/media/GCE_Badges_02.417ce9d43013180bc755.png",
+    "static/media/GCE_Badges_01.png": "/try1/build/static/media/GCE_Badges_01.afd5242d1134fa635e29.png",
+    "static/media/header-logo.png": "/try1/build/static/media/header-logo.b2447d07c2cf7cf621ed.png",
+    "static/media/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png": "/try1/build/static/media/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.005eaf01793148673bb3.png",
+    "static/media/certification1.png": "/try1/build/static/media/certification1.71d9c631a1c7c6cdc3f9.png",
+    "static/media/certification2.png": "/try1/build/static/media/certification2.25020fc15dcf429a1889.png",
+    "static/media/certification3.png": "/try1/build/static/media/certification3.71b3b237cf58489e3424.png",
+    "static/media/modal_bar.svg": "/try1/build/static/media/modal_bar.5ce7c920a2903a42e4d19cd1b8206574.svg",
+    "index.html": "/try1/build/index.html",
+    "main.e3061f22.css.map": "/try1/build/static/css/main.e3061f22.css.map",
+    "main.ee489361.js.map": "/try1/build/static/js/main.ee489361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3061f22.css",
+    "static/js/main.ee489361.js"
+  ]
+}
