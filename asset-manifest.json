@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.049ceb75.css",
+    "main.css": "/website/static/css/main.19cc41f8.css",
     "main.js": "/website/static/js/main.aea85370.js",
     "static/media/GCE_Badges_02.png": "/website/static/media/GCE_Badges_02.417ce9d43013180bc755.png",
     "static/media/GCE_Badges_01.png": "/website/static/media/GCE_Badges_01.afd5242d1134fa635e29.png",
@@ -11,11 +11,11 @@
     "static/media/certification3.png": "/website/static/media/certification3.71b3b237cf58489e3424.png",
     "static/media/modal_bar.svg": "/website/static/media/modal_bar.5ce7c920a2903a42e4d19cd1b8206574.svg",
     "index.html": "/website/index.html",
-    "main.049ceb75.css.map": "/website/static/css/main.049ceb75.css.map",
+    "main.19cc41f8.css.map": "/website/static/css/main.19cc41f8.css.map",
     "main.aea85370.js.map": "/website/static/js/main.aea85370.js.map"
   },
   "entrypoints": [
-    "static/css/main.049ceb75.css",
+    "static/css/main.19cc41f8.css",
     "static/js/main.aea85370.js"
   ]
 }
