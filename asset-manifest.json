@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.e3061f22.css",
-    "main.js": "/website/static/js/main.25b517c3.js",
+    "main.css": "/website/static/css/main.693f678c.css",
+    "main.js": "/website/static/js/main.327f53d8.js",
     "static/media/GCE_Badges_02.png": "/website/static/media/GCE_Badges_02.417ce9d43013180bc755.png",
     "static/media/GCE_Badges_01.png": "/website/static/media/GCE_Badges_01.afd5242d1134fa635e29.png",
     "static/media/header-logo.png": "/website/static/media/header-logo.b2447d07c2cf7cf621ed.png",
@@ -11,11 +11,11 @@
     "static/media/certification3.png": "/website/static/media/certification3.71b3b237cf58489e3424.png",
     "static/media/modal_bar.svg": "/website/static/media/modal_bar.5ce7c920a2903a42e4d19cd1b8206574.svg",
     "index.html": "/website/index.html",
-    "main.e3061f22.css.map": "/website/static/css/main.e3061f22.css.map",
-    "main.25b517c3.js.map": "/website/static/js/main.25b517c3.js.map"
+    "main.693f678c.css.map": "/website/static/css/main.693f678c.css.map",
+    "main.327f53d8.js.map": "/website/static/js/main.327f53d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3061f22.css",
-    "static/js/main.25b517c3.js"
+    "static/css/main.693f678c.css",
+    "static/js/main.327f53d8.js"
   ]
 }
